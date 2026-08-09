@@ -25,5 +25,5 @@ that bridge graph databases, deterministic LLM reasoning, and domain-specific AI
 - 6+ years in IT talent acquisition → deep domain knowledge of hiring workflows, HR and compliance
 
 ### Contact
-- 📧 m.fuskova@...
-- 🔗 [LinkedIn](https://linkedin.com/in/martina-fuskova)
+📧 m.fuskova@hotmail.sk
+🔗 [LinkedIn](https://linkedin.com/in/martina-fuskova)
