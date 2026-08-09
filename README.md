@@ -1,4 +1,4 @@
-## Martina Fusková - AI Engineer | Knowledge Graphs & GraphRAG
+## Martina - AI Engineer | Knowledge Graphs & GraphRAG
 
 **I build systems that show their work.**
 
