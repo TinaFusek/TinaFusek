@@ -1,4 +1,4 @@
-# Martina Fusková — AI engineer · knowledge graphs · evaluation
+# Martina Fuskova, PhD — AI engineer · knowledge graphs · evaluation
 
 **I build systems that show their work, and the instruments that check whether they actually did it.**
 
@@ -72,4 +72,4 @@ I have publicly retracted two of my own benchmark results after finding the erro
 
 Applied photochemistry and materials science (STU Bratislava), BSc in medicinal chemistry. Spectroscopic degradation analysis, DFT tooling, computer vision. Six years in IT talent acquisition before moving into engineering — which is why the HR and compliance domains show up here.
 
-📧 m.fuskova@hotmail.sk · [LinkedIn](https://linkedin.com/in/martina-fuskova)
+📧 m.fuskova@hotmail.sk · [LinkedIn](https://www.linkedin.com/in/martina-fuskova-phd-601366193/)
