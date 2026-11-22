@@ -51,6 +51,13 @@ NORMA grew out of **VITEAL**, a vendor-independent latency benchmark comparing g
 
 ---
 
+**Security evaluation**
+
+- **[AEF — AI Exploit Forecast](https://github.com/TinaFusek/ai-exploit-forecast):** Can a language model read a security patch and tell which bug attackers will actually exploit? Blind, anonymized WordPress Core fixes: 4 exploited in the wild (CISA KEV) vs. 18 non-exploited fixes from the same releases, two models × three runs, exact permutation test. DOI [10.5281/zenodo.24448146](https://doi.org/10.5281/zenodo.24448146).
+- **Finding:** The first pilot scored AUC 1.00, because its controls were test and comment commits. On the fair test both models fall to AUC 0.61–0.63, indistinguishable from chance at this size. The models rate how dangerous a fix looks, not whether anyone will exploit it.
+
+---
+
 ## Method
 
 **[PRAXIS](https://github.com/TinaFusek/praxis)** — the procedures I actually run, with the code that runs them. Seven runbooks, four scripts. Each runbook is a sequence I have followed, with the mistakes that shaped it named in place.
@@ -94,6 +101,7 @@ It measures a material that cannot tell you it is decaying. Everything above mea
 - NORMA has 2 of 7 pillars measured, on one engine, one configuration, three synthetic fixtures. Applying it to a platform I did not choose is the step that would change its status.
 - Cardinality estimation is a mature field with far better estimators than mine. What I measured is that the cheapest naive signal fails, and by how much.
 - These systems run locally and have not been operated under sustained production load by a team. That is the part of the craft I am still missing, and I would rather say so than imply otherwise.
+- AEF rests on 4 exploited cases from one ecosystem (WordPress Core); it is a pilot, not a verdict.
 
 I have publicly retracted two of my own benchmark results after finding the errors myself. I would rather do that than defend a number.
 
